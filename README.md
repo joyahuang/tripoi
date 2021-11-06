@@ -1,6 +1,6 @@
 # Tripoi:
 
-Visit [Live Site](https://github.com/joyahuang/tripoi)
+Visit [Live Site](https://joyahuang.github.io/tripoi/)
 ![Screen Shot Restaurant](https://github.com/joyahuang/tripoi/blob/main/screenshot/Screen%20Shot%20Hotel.png)
 
 ![Screen Shot Hotel](https://github.com/joyahuang/tripoi/blob/main/screenshot/Screen%20Shot%20Restaurant.png)
