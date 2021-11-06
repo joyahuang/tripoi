@@ -4,9 +4,9 @@
 
 Live Site https://tripoi.netlify.app/
 
-![Screen Shot Restaurant](/Users/zhuoyahuang/Documents/projects/trip-advisor/introduction/Screen Shot Restaurant.png)
+![Screen Shot Restaurant](https://github.com/joyahuang/tripoi/blob/main/introduction/Screen%20Shot%20Hotel.png)
 
-![Screen Shot Hotel](/Users/zhuoyahuang/Documents/projects/trip-advisor/introduction/Screen Shot Hotel.png)
+![Screen Shot Hotel](https://github.com/joyahuang/tripoi/blob/main/introduction/Screen%20Shot%20Restaurant.png)
 
 
 
